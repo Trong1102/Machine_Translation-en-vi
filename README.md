@@ -4,8 +4,8 @@
 
 ## Tổng quan
 ### [Huấn luyện mô hình en-vi](https://github.com/Trong1102/Machine_Translation-en-vi/blob/main/Train_Transfomer_en_vi.ipynb)
-### [Huấn luyện mô hình vi-en]()
-### [Sử dụng mô hình]()
+### [Huấn luyện mô hình vi-en](https://github.com/Trong1102/Machine_Translation-en-vi/blob/main/Train_Transfomer_vi_en.ipynb)
+### [Sử dụng mô hình](https://github.com/Trong1102/Machine_Translation-en-vi/blob/main/Transformer_translate.ipynb)
 
 ## Tóm tắt nội dung
 ### Mô tả về dự án
