@@ -3,7 +3,7 @@
 [Dataset](https://drive.google.com/file/d/1Fuo_ALIFKlUvOPbK5rUA5OfAS2wKn_95/view)
 
 ## Tổng quan
-### [Huấn luyện mô hình en-vi]()
+### [Huấn luyện mô hình en-vi](https://github.com/Trong1102/Machine_Translation-en-vi/blob/main/Train_Transfomer_en_vi.ipynb)
 ### [Huấn luyện mô hình vi-en]()
 ### [Sử dụng mô hình]()
 
