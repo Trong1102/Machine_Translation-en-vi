@@ -2,6 +2,11 @@
 ## Datasets
 [Dataset](https://drive.google.com/file/d/1Fuo_ALIFKlUvOPbK5rUA5OfAS2wKn_95/view)
 
+## Tổng quan
+### [Huấn luyện mô hình en-vi]()
+### [Huấn luyện mô hình vi-en]()
+### [Sử dụng mô hình]()
+
 ## Tóm tắt nội dung
 ### Mô tả về dự án
 Dự án Dịch máy nhằm giải quyết bài toán dịch ngôn ngữ giữa tiếng Việt và tiếng Anh. Mục tiêu của dự án là tạo ra một mô hình dịch máy hiệu quả, có khả năng dịch chính xác và tự nhiên. Dự án có ý nghĩa thực tế bởi sự cần thiết của việc giao tiếp và chuyển đổi giữa các ngôn ngữ trong thế giới đa văn hóa ngày nay.
